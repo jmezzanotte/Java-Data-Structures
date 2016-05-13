@@ -2,6 +2,7 @@
 // This is an assignment for students to complete after reading Chapter 11 of
 // "Data Structures and Other Objects Using Java" by Michael Main.
 
+// put, remove, containsKey, and get methods were coded by John Mezzanotte 
 
 
 /******************************************************************************
