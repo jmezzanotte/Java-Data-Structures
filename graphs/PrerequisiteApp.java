@@ -1,5 +1,5 @@
 
-package project8_256;
+
 import java.util.Scanner;
 import java.util.Arrays;
 
